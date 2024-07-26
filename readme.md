@@ -1,6 +1,6 @@
 
 ### Looking for a roblox discord bot? 
-I got you covered. [Agent Blox has you covered.](https://discord.com/oauth2/authorize?client_id=1150791638369718392) 
+[Agent Blox has you covered.](https://discord.com/oauth2/authorize?client_id=1150791638369718392) 
 
 # RoVer API Wrapper
 
